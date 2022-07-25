@@ -1,0 +1,16 @@
+@import 'abstracts/variables';
+
+@import 'vendors/scss/bootstrap';
+
+@import 'base/base';
+@import 'base/reset';
+@import 'base/typography';
+
+@import 'layout/navegation';
+@import 'layout/header';
+@import 'layout/main-section';
+@import 'layout/form-section';
+@import 'layout/footer';
+
+@import 'components/buttons';
+@import 'components/inputs';
